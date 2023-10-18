@@ -1,0 +1,17 @@
+p {
+    color:rgb(9, 68, 12);
+    width: 50%;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #dbdbdb;
+}
+
+.abvgde {
+    text-align: center;
+    background-color: #dfbebe;
+    transition: all 0.5s;
+}
+
+.abvgde:hover {
+    background-color: #c58181;
+}
